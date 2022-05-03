@@ -2,7 +2,7 @@
 
 - [**Project Title**](#Project-Title)
 - [**Background**](#Background)
-- [**Research Questions**](#Research Questions)
+- [**Questions**](#Questions)
 - [**Data Used**](#Data-Used)
 - [**Programming Language Used**](#Programming-Language-Used)
 
@@ -15,7 +15,7 @@ The popularity of Netflix has soared in recent years, making it one of the most 
 Our project utilizes the data of Netflix’s movie ratings from IMDb to analyze the relationship among the ratings, released year, durations, and genres. 
 
 
-## Research Questions
+## Questions
 - Is there a relationship between star ratings and durations (in minutes)?
 - How does each feature (country, genre, age rating, duration, or year released) impact the star ratings of movies?
 - Is there any difference in average star ratings between the recent movies (released before 2018) and the new movies (released after 2018)?
